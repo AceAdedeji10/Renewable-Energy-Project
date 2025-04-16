@@ -44,11 +44,11 @@ To run this project locally and reproduce the analysis, you need to install **Py
 ### Steps to Install:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/renewable-energy-analysis.git
+   git clone https://github.com/AceAdedeji10/Renewable-Energy-Project.git
    ```
 2. Navigate into the project folder:
    ```bash
-   cd renewable-energy-analysis
+   cd Renewable-Energy-Project
    ```
 3. Install the required dependencies:
    ```bash
