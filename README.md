@@ -1,6 +1,6 @@
 Certainly! Below is the **README.md** documentation for the **Python project** focusing on renewable energy analysis, which you can use for your GitHub repository. This will provide clear instructions on how to run the Python code, the project's purpose, and the methodology.
 
----
+
 
 # Renewable Energy Analysis - Python Project
 
