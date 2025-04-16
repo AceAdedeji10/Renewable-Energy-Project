@@ -16,7 +16,7 @@ The analysis uses various **machine learning models** to predict energy producti
 - Evaluates the performance of predictive models (e.g., linear regression and Random Forest).
 - Examines how different renewable energy types impact **job creation** and **GHG reductions**.
 
----
+
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@ The analysis uses various **machine learning models** to predict energy producti
 4. [Results](#results)
 5. [License](#license)
 
----
+
 
 ## Installation
 
@@ -78,7 +78,7 @@ To run this project locally and reproduce the analysis, you need to install **Py
 5. **Interpret Results**:
    - The models' performance is analyzed, and insights are drawn from the **feature importance analysis**, identifying the most influential variables.
 
----
+
 
 ## Methodology
 
@@ -102,7 +102,7 @@ To run this project locally and reproduce the analysis, you need to install **Py
    - Analyzed the correlation between **job creation** and **GHG reduction**, showing a positive relationship between these factors.
    - **Solar** and **wind** projects were found to create the most jobs and reduce the most **GHG emissions**.
 
----
+
 
 ## Results
 
@@ -111,7 +111,7 @@ To run this project locally and reproduce the analysis, you need to install **Py
 - **Predictive Model Performance**: Both the **linear regression** and **Random Forest** models showed poor predictive performance (low R-squared values), indicating that more complex features or models may be needed for better predictions.
 - **GHG Emission Reduction**: There is a moderate positive correlation between **job creation** and **GHG emission reduction**, meaning renewable energy projects that create jobs are likely to also contribute to environmental sustainability.
 
----
+
 
 ## License
 This project does not have an explicit license since it is based on publicly available data from Kaggle. The dataset used in this project is available on Kaggle under the Kaggle License. Please refer to Kaggle's Terms of Service for more details.
@@ -122,14 +122,13 @@ Kaggle Terms of Service: By using this dataset, you agree to the terms specified
 
 If you are using this dataset for personal or commercial purposes, please ensure you are following the Kaggle data usage policies and licensing agreements.
 
----
 
 ### **Additional Notes**:
 
 - The project can be extended by including additional features, like **regional variations**, **weather conditions**, or **policy impacts**, to improve predictive accuracy.
 - If you would like to contribute to this project or suggest new features, feel free to **fork** this repository and submit **pull requests**.
 
----
+
 
 This **README.md** serves as documentation for the Python analysis portion of your project. It gives a comprehensive overview of how to install, use, and understand the analysis and results.
 
